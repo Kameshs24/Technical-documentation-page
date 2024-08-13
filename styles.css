@@ -1,0 +1,33 @@
+#navbar{
+    position: fixed;
+    left: 10px;
+  
+  }
+  #navbar header{
+    padding: 8px;
+    font-size: 1.618em;
+    font-family: Arial, sans-serif;
+    margin-bottom: 7;
+  }
+   #navbar a:hover {
+        
+        color: black;
+      }
+  
+  #navbar a{
+    display: block;
+    color: grey;
+    margin-bottom: 10px;
+    text-decoration: none;
+    
+  }
+  
+  #main-doc{
+    margin-left: 170px;
+  }
+  
+  @media (max-height: 600px){
+    .main-section{
+      font-size: em;
+    }
+  }
